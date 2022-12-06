@@ -8,9 +8,14 @@ draft: false
 
 ### Dolgozat írás
 
+
 Megírjuk helyetted a dolgozatot, biztos ötös, kockázat nélkül.
 
 ### Beaadandó készítés
+
+### Hotdog készítés és elfogyasztása
+
+Éhes vagy?
 
 
 
